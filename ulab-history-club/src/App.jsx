@@ -16,7 +16,7 @@ const schedule = [
 ];
 
 const executives = [
-  { name: "M Shahidul Islam Khandakar", designation: "Club Advisor", initials: "FA",photo: "/advisor.jpg" },
+  { name: "M Shahidul Islam Khandakar", designation: "Club Advisor", initials: "FA",photo: "/advisor.png" },
   { name: "Mehedi Hasan Pollob", designation: "President", initials: "PR",photo: "/pollob.jpeg" },
   { name: "Anika Afrin Juhi ", designation: "Vice President", initials: "VP",photo: "/juhi.jpeg" },
   { name: "Moumita Mir Muskan", designation: "General Secretary", initials: "GS",photo: "/muskan.jpeg" },
